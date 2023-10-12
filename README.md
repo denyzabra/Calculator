@@ -10,13 +10,13 @@ If you'd like to contribute and add functionality to the calculator, this guide 
 
    ```bash
    git clone https://github.com/your-username/calculator.git
-## Open the calculator.html file in your code editor.
-## Adding Functionality
+ Open the calculator.html file in your code editor.
+Adding Functionality
 The main functionality of this calculator is currently missing. To add the calculator's logic, follow these steps:
 
-## Inside the calculator.html file, locate the <script> tag within the <head> section.
+ Inside the calculator.html file, locate the <script> tag within the <head> section.
 
-## Write JavaScript code to implement the calculator's functionality. You can use the HTML element IDs provided in the HTML code to access and manipulate input
+Write JavaScript code to implement the calculator's functionality. You can use the HTML element IDs provided in the HTML code to access and manipulate input
 values and display the results. Here's an example of how to add a simple addition operation:
 
 You can follow a similar approach to implement subtraction, multiplication, and division functionality by creating event listeners for the respective buttons.
@@ -29,11 +29,11 @@ Ensure your code follows best practices and is well-documented to make it easy f
 ## Contributing
 If you've added new features, fixed bugs, or improved the project in any way, I welcome your contributions. Here's how to contribute:
 
-## Commit your changes and push them to your forked repository.
+ Commit your changes and push them to your forked repository.
 
-## Create a pull request to the original repository.
+ Create a pull request to the original repository.
 
-## Give your pull request a descriptive title and provide details about the changes you've made.
+Give your pull request a descriptive title and provide details about the changes you've made.
 
 I will review your pull request, and once accepted, your changes will be merged into the project.
 
